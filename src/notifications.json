@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "type": "post-reaction",
+    "timestamp": "1m ago",
+    "read": false,
+    "name": "Mark Webber",
+    "image": "../public/images/1.jpg",
+    "post": "My first tournament today!"
+  },
+  {
+    "id": 2,
+    "type": "follow",
+    "timestamp": "5m ago",
+    "read": false,
+    "image": "../public/images/2.jpg",
+    "name": "Angela Gray"
+  },
+  {
+    "id": 3,
+    "type": "group-join",
+    "timestamp": "1 day ago",
+    "read": false,
+    "image": "../public/images/3.jpg",
+    "name": "Jacob Thompson",
+    "group": "Chess Club"
+  },
+  {
+     "id": 4,
+    "type": "message",
+    "timestamp": "5 days ago",
+    "read": true,
+    "image": "../public/images/es.jpg",
+    "name": "Rizky Hasanuddin",
+    "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+  },
+  {
+    "id": 5,
+    "type": "picture-comment",
+    "timestamp": "1 week ago",
+    "read": true,
+    "image": "../public/images/4.jpg",
+    "name": "Kimberley Smith",
+    "picture": "../public/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "type": "post-reaction",
+    "timestamp": "2 weeks ago",
+    "read": true,
+    "name": "Nathan Peterson",
+    "image": "../public/images/6.jpg",
+    "post": "5 end-game strategies to increase your win rate"
+  },
+  {
+    "id": 7,
+    "type": "group-leave",
+    "timestamp": "2 weeks ago",
+    "read": true,
+    "image": "../public/images/7.jpg",
+    "name": "Anna Kim",
+    "group": "Chess Club"
+  }
+]
