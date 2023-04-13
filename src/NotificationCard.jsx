@@ -1,7 +1,6 @@
 import FollowCard from "./FollowCard";
 import GroupJoinCard from "./GroupJoinCard";
 import GroupLeaveCard from "./GroupLeaveCard";
-import MessageCard from "./MessageCard";
 import PictureCommentCard from "./PictureCommentCard";
 import PostReactionCard from "./PostReactionCard";
 
